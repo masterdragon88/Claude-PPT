@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="65" fill="#1B3A6B"/>
+  <rect x="0" y="65" width="6" height="628" fill="#D4A017"/>
+
+  <text x="40" y="43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">PETA KEWAJIBAN PAJAK SPPG MBG – FULL LIFECYCLE</text>
+  <text x="1240" y="43" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#A8C4E8">5 Kategori Pajak</text>
+
+  <!-- Category A: PPh Badan -->
+  <rect x="20" y="78" width="388" height="182" rx="6" fill="#EEF2F8" stroke="#2C5282" stroke-width="1.5"/>
+  <rect x="20" y="78" width="388" height="34" rx="5" fill="#1B3A6B"/>
+  <text x="214" y="100" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">A. PAJAK PENGHASILAN BADAN</text>
+
+  <rect x="34" y="120" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="130" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">PPh Pasal 25</text>
+  <text x="50" y="146" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Angsuran: 1/12 × PPh terutang tahun sebelumnya</text>
+
+  <rect x="34" y="156" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="166" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">PPh Pasal 29</text>
+  <text x="50" y="182" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Kekurangan bayar: SPT Tahunan – kredit pajak</text>
+
+  <rect x="34" y="193" width="8" height="8" rx="2" fill="#CBD5E0"/>
+  <text x="50" y="203" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#718096">PPh Final UMKM 0,5%</text>
+  <text x="50" y="219" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">TIDAK APPLICABLE (omzet &gt; Rp 4,8 M)</text>
+  <text x="50" y="250" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">Tarif: 22%  |  Lapor: SPT Tahunan 1771</text>
+
+  <!-- Category B: Withholding -->
+  <rect x="428" y="78" width="424" height="182" rx="6" fill="#EEF2F8" stroke="#2C5282" stroke-width="1.5"/>
+  <rect x="428" y="78" width="424" height="34" rx="5" fill="#2C5282"/>
+  <text x="640" y="100" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">B. WITHHOLDING TAX (PEMOTONGAN)</text>
+
+  <text x="442" y="124" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">SPPG Sebagai Pemotong:</text>
+  <rect x="442" y="130" width="6" height="6" rx="1" fill="#4A90D9"/>
+  <text x="456" y="139" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PPh 21 — Gaji 47 karyawan (TER)</text>
+  <rect x="442" y="145" width="6" height="6" rx="1" fill="#4A90D9"/>
+  <text x="456" y="154" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PPh 23 — Sewa &amp; jasa dari supplier WP Badan (2%)</text>
+  <rect x="442" y="159" width="6" height="6" rx="1" fill="#4A90D9"/>
+  <text x="456" y="168" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PPh 4(2) — Sewa tanah/bangunan pihak ke-3 (10% final)</text>
+
+  <text x="442" y="188" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#D4A017">SPPG Sebagai Dipotong:</text>
+  <rect x="442" y="194" width="6" height="6" rx="1" fill="#D4A017"/>
+  <text x="456" y="203" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PPh 23 oleh Yayasan — 2% × bruto jasa katering</text>
+  <rect x="442" y="208" width="6" height="6" rx="1" fill="#D4A017"/>
+  <text x="456" y="217" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PPh 22 jika BGN langsung — 1,5% atas pembelian barang</text>
+  <text x="442" y="250" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">Lapor: SPT Masa tgl 20 bln berikut via e-Bupot (Coretax)</text>
+
+  <!-- Category C: PPN/PBJT -->
+  <rect x="872" y="78" width="388" height="182" rx="6" fill="#FFF5F5" stroke="#C53030" stroke-width="1.5"/>
+  <rect x="872" y="78" width="388" height="34" rx="5" fill="#C53030"/>
+  <text x="1066" y="100" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">C. PPN / PBJT  (KRITIS)</text>
+
+  <rect x="886" y="120" width="8" height="8" rx="2" fill="#276749"/>
+  <text x="902" y="130" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#276749">PPN atas penyerahan SPPG</text>
+  <text x="902" y="148" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#276749">DIKECUALIKAN (PMK 70/PMK.03/2022)</text>
+
+  <rect x="886" y="158" width="8" height="8" rx="2" fill="#C53030"/>
+  <text x="902" y="168" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#C53030">PPN Masukan dari supplier</text>
+  <text x="902" y="186" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">TIDAK dapat dikreditkan (output non-PPN)</text>
+
+  <rect x="886" y="196" width="8" height="8" rx="2" fill="#C53030"/>
+  <text x="902" y="206" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">PBJT Makanan/Minuman</text>
+  <text x="902" y="224" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">Max 10% per Perda — GRAY AREA untuk MBG</text>
+  <text x="886" y="248" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#C53030">→ Wajib tax ruling Bapenda sebelum operasional!</text>
+
+  <!-- Category D: Pajak Daerah -->
+  <rect x="20" y="276" width="388" height="250" rx="6" fill="#EEF2F8" stroke="#2C5282" stroke-width="1.5"/>
+  <rect x="20" y="276" width="388" height="34" rx="5" fill="#1B3A6B"/>
+  <text x="214" y="298" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">D. PAJAK DAERAH (PERDA)</text>
+
+  <rect x="34" y="320" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="330" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">BPHTB</text>
+  <text x="50" y="347" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">5% × (NPOP – NPOPTKP) saat akuisisi tanah</text>
+
+  <rect x="34" y="358" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="368" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">PBB-P2</text>
+  <text x="50" y="385" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">0,1–0,3% × NJOP tahunan</text>
+
+  <rect x="34" y="395" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="405" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Pajak Air Tanah</text>
+  <text x="50" y="422" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Per m³ × tarif Perda — bulanan</text>
+
+  <rect x="34" y="432" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="442" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Pajak Reklame</text>
+  <text x="50" y="459" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Papan nama dapur — per meter persegi</text>
+
+  <rect x="34" y="468" width="8" height="8" rx="2" fill="#D4A017"/>
+  <text x="50" y="478" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Retribusi Perizinan</text>
+  <text x="50" y="495" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">SLHS, IMB/PBG, HO — sesuai Perda</text>
+  <text x="34" y="517" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">Otoritas: Bapenda Kab/Kota  |  Bervariasi per daerah</text>
+
+  <!-- Category E: Pajak Lain -->
+  <rect x="428" y="276" width="424" height="250" rx="6" fill="#EEF2F8" stroke="#2C5282" stroke-width="1.5"/>
+  <rect x="428" y="276" width="424" height="34" rx="5" fill="#2C5282"/>
+  <text x="640" y="298" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">E. PAJAK LAIN &amp; COMPLIANCE</text>
+
+  <rect x="442" y="320" width="8" height="8" rx="2" fill="#4A90D9"/>
+  <text x="458" y="330" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Bea Meterai</text>
+  <text x="458" y="347" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Rp 10.000 per dokumen &gt; Rp 5 juta (UU 10/2020)</text>
+
+  <rect x="442" y="358" width="8" height="8" rx="2" fill="#718096"/>
+  <text x="458" y="368" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#718096">BPJS Kesehatan</text>
+  <text x="458" y="385" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#718096">5% × gaji (4% employer, 1% karyawan) — bukan pajak</text>
+
+  <rect x="442" y="395" width="8" height="8" rx="2" fill="#718096"/>
+  <text x="458" y="405" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#718096">BPJS Ketenagakerjaan</text>
+  <text x="458" y="422" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#718096">~5,7% gaji — bukan pajak namun compliance</text>
+
+  <rect x="442" y="432" width="8" height="8" rx="2" fill="#4A90D9"/>
+  <text x="458" y="442" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">PPh Pasal 26</text>
+  <text x="458" y="459" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Atas pembayaran ke WPLN (jika ada konsultan asing)</text>
+
+  <!-- Compliance note -->
+  <rect x="442" y="473" width="396" height="42" rx="4" fill="#1B3A6B" fill-opacity="0.08"/>
+  <text x="458" y="491" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#1B3A6B">Coretax DJP (PMK 81/2024):</text>
+  <text x="558" y="491" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Semua SPT &amp; e-Bupot via Coretax</text>
+  <text x="458" y="507" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">NIK = NPWP karyawan  |  Real-time matching  |  e-Bupot massal CSV</text>
+
+  <!-- Dasar Hukum summary box -->
+  <rect x="872" y="276" width="388" height="250" rx="6" fill="#EEF2F8" stroke="#2C5282" stroke-width="1.5"/>
+  <rect x="872" y="276" width="388" height="34" rx="5" fill="#1B3A6B"/>
+  <text x="1066" y="298" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">DASAR HUKUM UTAMA</text>
+
+  <text x="886" y="324" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Undang-Undang:</text>
+  <text x="886" y="340" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">UU 7/2021 (HPP)  •  UU 36/2008 (PPh)</text>
+  <text x="886" y="356" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">UU 1/2022 (HKPD)  •  UU 16/2009 (KUP)</text>
+
+  <text x="886" y="378" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Peraturan Pemerintah:</text>
+  <text x="886" y="394" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PP 55/2022 (PPh Final)  •  PP 58/2023 (TER)</text>
+  <text x="886" y="410" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PP 35/2023 (Pajak Daerah)</text>
+
+  <text x="886" y="432" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">PMK Kritis:</text>
+  <text x="886" y="448" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">PMK 70/2022 — Jasa Boga Non-PPN ← PALING KRITIS</text>
+  <text x="886" y="464" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PMK 168/2023 — PPh 21 TER</text>
+  <text x="886" y="480" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PMK 81/2024 — Coretax</text>
+  <text x="886" y="496" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1A202C">PMK 172/2023 — Transfer Pricing</text>
+  <text x="886" y="512" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">+ Perda Lokal per Kota/Kabupaten</text>
+
+  <!-- Bottom note -->
+  <rect x="20" y="542" width="1240" height="36" rx="4" fill="#1B3A6B" fill-opacity="0.07" stroke="#1B3A6B" stroke-width="1" stroke-opacity="0.2"/>
+  <text x="40" y="565" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B3A6B">Lifecycle Pajak SPPG:</text>
+  <text x="155" y="565" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Pre-Operasional (BPHTB, BPJS, NPWP)  →  Operasional Harian (PPh 21/23/4(2), PBJT, Air Tanah)  →  Pelaporan Tahunan (PPh 25/29, SPT 1771)</text>
+
+  <!-- Footer -->
+  <rect x="0" y="693" width="1280" height="27" fill="#1B3A6B"/>
+  <text x="640" y="710" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#A8C4E8">Analisis Pajak &amp; Tax Management MBG 2026  –  Confidential Tax Planning</text>
+  <text x="1250" y="710" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#D4A017">5 / 15</text>
+</svg>

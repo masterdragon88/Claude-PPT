@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="65" fill="#1B3A6B"/>
+  <rect x="0" y="65" width="6" height="628" fill="#D4A017"/>
+
+  <text x="40" y="43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">TAX MAP PER AKTIVITAS BISNIS SPPG</text>
+  <text x="1240" y="43" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#A8C4E8">Dari Pre-Operasional hingga Laporan Tahunan</text>
+
+  <!-- Table header -->
+  <rect x="20" y="78" width="1240" height="36" rx="4" fill="#2C5282"/>
+  <text x="130" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Aktivitas Bisnis</text>
+  <text x="520" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Pajak yang Muncul</text>
+  <text x="820" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Tarif</text>
+  <text x="1020" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Pelaporan</text>
+  <text x="1175" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Fase</text>
+
+  <!-- Column dividers -->
+  <line x1="260" y1="78" x2="260" y2="648" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="760" y1="78" x2="760" y2="648" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="880" y1="78" x2="880" y2="648" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="1130" y1="78" x2="1130" y2="648" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Data rows -->
+  <!-- Row heights: 43px each -->
+  <!-- Row 1 -->
+  <rect x="20" y="114" width="1240" height="40" fill="#EEF2F8"/>
+  <rect x="20" y="114" width="4" height="40" fill="#C53030"/>
+  <text x="28" y="132" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Akuisisi tanah dapur</text>
+  <text x="28" y="148" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Saat pembelian lahan</text>
+  <text x="270" y="138" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">BPHTB</text>
+  <text x="770" y="138" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">5% × (NPOP–NPOPTKP)</text>
+  <text x="1005" y="138" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Sekali, ke Bapenda</text>
+  <text x="1155" y="138" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">Pre-Ops</text>
+  <line x1="20" y1="154" x2="1260" y2="154" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 2 -->
+  <rect x="20" y="154" width="1240" height="40" fill="#FFFFFF"/>
+  <rect x="20" y="154" width="4" height="40" fill="#C53030"/>
+  <text x="28" y="172" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Konstruksi bangunan dapur</text>
+  <text x="28" y="188" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Kontrak kontraktor</text>
+  <text x="270" y="178" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">PPh 4(2) jasa konstruksi</text>
+  <text x="770" y="178" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">2 – 6%</text>
+  <text x="1005" y="178" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bulanan</text>
+  <text x="1155" y="178" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">Pre-Ops</text>
+  <line x1="20" y1="194" x2="1260" y2="194" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 3 -->
+  <rect x="20" y="194" width="1240" height="40" fill="#EEF2F8"/>
+  <rect x="20" y="194" width="4" height="40" fill="#4A90D9"/>
+  <text x="28" y="212" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Pembayaran gaji 47 karyawan</text>
+  <text x="28" y="228" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Bulanan setiap tanggal gajian</text>
+  <text x="270" y="218" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">PPh 21 (TER PMK 168/2023)</text>
+  <text x="770" y="218" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">0 – 34%</text>
+  <text x="1005" y="218" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bulanan (SPT Masa)</text>
+  <text x="1155" y="218" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">Operasional</text>
+  <line x1="20" y1="234" x2="1260" y2="234" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 4 -->
+  <rect x="20" y="234" width="1240" height="40" fill="#FFFFFF"/>
+  <rect x="20" y="234" width="4" height="40" fill="#4A90D9"/>
+  <text x="28" y="252" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Sewa lahan (jika sewa)</text>
+  <text x="28" y="268" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Asumsi Rp 25 jt/bln</text>
+  <text x="270" y="258" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">PPh 4(2) Final sewa tanah/bangunan</text>
+  <text x="770" y="258" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">10% Final</text>
+  <text x="1005" y="258" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bulanan</text>
+  <text x="1155" y="258" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">Operasional</text>
+  <line x1="20" y1="274" x2="1260" y2="274" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 5 (highlighted - D4A017) -->
+  <rect x="20" y="274" width="1240" height="40" fill="#FFFBEB"/>
+  <rect x="20" y="274" width="4" height="40" fill="#D4A017"/>
+  <text x="28" y="292" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Penerimaan dari BGN/Yayasan</text>
+  <text x="28" y="308" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Tiap pencairan MBG</text>
+  <text x="270" y="292" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#D4A017">PPh 23 dipotong Yayasan</text>
+  <text x="270" y="308" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Rp 14,085 M × 2% = Rp 281,7 juta/tahun</text>
+  <text x="770" y="292" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#D4A017">2% bruto</text>
+  <text x="1005" y="292" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bukti potong/bulan</text>
+  <text x="1155" y="292" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">Operasional</text>
+  <line x1="20" y1="314" x2="1260" y2="314" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 6 (RED - PBJT) -->
+  <rect x="20" y="314" width="1240" height="40" fill="#FFF5F5"/>
+  <rect x="20" y="314" width="4" height="40" fill="#C53030"/>
+  <text x="28" y="332" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">Penjualan jasa katering (output)</text>
+  <text x="28" y="348" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#C53030">Pembayaran dari Yayasan ke SPPG</text>
+  <text x="270" y="332" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">PPN: tidak ada / PBJT: cek Perda!</text>
+  <text x="770" y="332" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">0% / Max 10%</text>
+  <text x="1005" y="332" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">SPTPD Bulanan</text>
+  <text x="1155" y="332" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">Operasional</text>
+  <line x1="20" y1="354" x2="1260" y2="354" stroke="#C53030" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- Row 7 -->
+  <rect x="20" y="354" width="1240" height="40" fill="#EEF2F8"/>
+  <rect x="20" y="354" width="4" height="40" fill="#4A90D9"/>
+  <text x="28" y="372" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Sewa kendaraan distribusi</text>
+  <text x="270" y="372" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">PPh 23 (SPPG sebagai pemotong)</text>
+  <text x="770" y="372" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">2%</text>
+  <text x="1005" y="372" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bulanan</text>
+  <text x="1155" y="372" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">Operasional</text>
+  <line x1="20" y1="394" x2="1260" y2="394" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 8 -->
+  <rect x="20" y="394" width="1240" height="40" fill="#FFFFFF"/>
+  <rect x="20" y="394" width="4" height="40" fill="#4A90D9"/>
+  <text x="28" y="412" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Konsumsi air tanah dapur</text>
+  <text x="270" y="412" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">Pajak Air Tanah (Perda)</text>
+  <text x="770" y="412" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Per m³</text>
+  <text x="1005" y="412" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bulanan (Bapenda)</text>
+  <text x="1155" y="412" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">Operasional</text>
+  <line x1="20" y1="434" x2="1260" y2="434" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 9 -->
+  <rect x="20" y="434" width="1240" height="40" fill="#EEF2F8"/>
+  <rect x="20" y="434" width="4" height="40" fill="#4A90D9"/>
+  <text x="28" y="452" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Penandatanganan kontrak</text>
+  <text x="270" y="452" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">Bea Meterai (UU 10/2020)</text>
+  <text x="770" y="452" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Rp 10.000/dok</text>
+  <text x="1005" y="452" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Per transaksi</text>
+  <text x="1155" y="452" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">Operasional</text>
+  <line x1="20" y1="474" x2="1260" y2="474" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 10 -->
+  <rect x="20" y="474" width="1240" height="40" fill="#FFFFFF"/>
+  <rect x="20" y="474" width="4" height="40" fill="#276749"/>
+  <text x="28" y="492" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Laba akhir tahun operasional</text>
+  <text x="28" y="508" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Berdasarkan SPT Tahunan</text>
+  <text x="270" y="498" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">PPh Badan Pasal 25 &amp; 29</text>
+  <text x="770" y="498" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#276749">22%</text>
+  <text x="1005" y="498" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Bulanan &amp; Tahunan</text>
+  <text x="1155" y="498" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#276749">Tahunan</text>
+  <line x1="20" y1="514" x2="1260" y2="514" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 11 -->
+  <rect x="20" y="514" width="1240" height="40" fill="#EEF2F8"/>
+  <rect x="20" y="514" width="4" height="40" fill="#276749"/>
+  <text x="28" y="532" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">Kepemilikan aset (tanah + bangunan)</text>
+  <text x="270" y="532" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">PBB-P2 Tahunan</text>
+  <text x="770" y="532" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1A202C">0,1 – 0,3% × NJOP</text>
+  <text x="1005" y="532" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Sesuai SPPT Bapenda</text>
+  <text x="1155" y="532" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#276749">Tahunan</text>
+
+  <!-- Table outer border -->
+  <rect x="20" y="78" width="1240" height="496" fill="none" stroke="#CBD5E0" stroke-width="1" rx="4"/>
+
+  <!-- Legend -->
+  <rect x="20" y="595" width="14" height="14" rx="2" fill="#C53030"/>
+  <text x="40" y="607" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Pre-Operasional</text>
+  <rect x="165" y="595" width="14" height="14" rx="2" fill="#4A90D9"/>
+  <text x="185" y="607" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Operasional Bulanan</text>
+  <rect x="340" y="595" width="14" height="14" rx="2" fill="#D4A017"/>
+  <text x="360" y="607" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">PPh 23 Prepayment (Kredit Pajak)</text>
+  <rect x="585" y="595" width="14" height="14" rx="2" fill="#276749"/>
+  <text x="605" y="607" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Tahunan / SPT</text>
+  <rect x="710" y="595" width="14" height="14" rx="2" fill="#C53030"/>
+  <text x="730" y="607" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#C53030">PBJT — GRAY AREA</text>
+
+  <!-- Key insight -->
+  <rect x="20" y="625" width="1240" height="40" rx="4" fill="#1B3A6B"/>
+  <text x="40" y="643" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#D4A017">INSIGHT:</text>
+  <text x="110" y="643" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#FFFFFF">PPh 23 Rp 281,7 juta/tahun dicatat sebagai "Pajak Dibayar di Muka" di balance sheet — BUKAN beban di P&amp;L.</text>
+  <text x="110" y="659" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#A8C4E8">Pada SPT Tahunan dikreditkan vs PPh Badan. Jika lebih bayar → restitusi (12–24 bln) atau kompensasi masa berikutnya.</text>
+
+  <rect x="0" y="693" width="1280" height="27" fill="#1B3A6B"/>
+  <text x="640" y="710" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#A8C4E8">Analisis Pajak &amp; Tax Management MBG 2026  –  Confidential Tax Planning</text>
+  <text x="1250" y="710" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#D4A017">6 / 15</text>
+</svg>

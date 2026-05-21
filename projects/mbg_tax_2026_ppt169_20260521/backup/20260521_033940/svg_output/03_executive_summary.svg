@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="65" fill="#1B3A6B"/>
+  <rect x="0" y="65" width="6" height="628" fill="#D4A017"/>
+
+  <!-- Header -->
+  <text x="40" y="43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">EXECUTIVE SUMMARY – TAX POSITION</text>
+  <text x="1240" y="43" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#A8C4E8">7 Poin Kunci</text>
+
+  <!-- Intro -->
+  <text x="40" y="95" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4A5568">Bisnis SPPG MBG menghadapi kompleksitas pajak multi-layer. Setiap rupiah pagu MBG akan mengalami minimal 2–3 lapis pemajakan.</text>
+
+  <!-- 7 Key Points -->
+  <!-- Point 1 -->
+  <rect x="40" y="112" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="112" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="124" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="140" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="86" y="133" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">Rezim PPh Badan Reguler 22%</text>
+  <text x="86" y="152" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Omzet ~Rp 14 M/tahun melebihi batas PPh Final UMKM 0,5% (PP 55/2022).</text>
+  <text x="86" y="170" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Wajib PPh Badan normal 22% + pembukuan lengkap.</text>
+
+  <!-- Point 2 -->
+  <rect x="40" y="190" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="190" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="202" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="218" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">2</text>
+  <text x="86" y="211" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">PPN Dikecualikan – PBJT Berlaku</text>
+  <text x="86" y="230" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Jasa boga/katering TIDAK dikenai PPN (PMK 70/PMK.03/2022).</text>
+  <text x="86" y="248" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#C53030">Namun PBJT daerah max 10% (UU 1/2022 HKPD) — tergantung Perda.</text>
+
+  <!-- Point 3 -->
+  <rect x="40" y="268" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="268" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="280" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="296" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="86" y="289" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">Withholding PPh 23 — 2% atas Bruto</text>
+  <text x="86" y="308" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Pembayaran dari BGN/Yayasan ke SPPG dipotong 2% atas bruto jasa katering.</text>
+  <text x="86" y="326" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">4% jika SPPG tidak punya NPWP. Total PPh 23 dipotong: Rp 281,7 juta/tahun.</text>
+
+  <!-- Point 4 -->
+  <rect x="40" y="346" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="346" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="358" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="374" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">4</text>
+  <text x="86" y="367" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">PPh 21 TER untuk 47 Karyawan</text>
+  <text x="86" y="386" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Skema TER (PMK 168/2023): tarif efektif rata-rata Jan–Nov, rekonsiliasi</text>
+  <text x="86" y="404" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">progresif Pasal 17 di Desember. Estimasi total PPh 21: ~Rp 5,8 juta/tahun.</text>
+
+  <!-- Point 5 -->
+  <rect x="40" y="424" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="424" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="436" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="452" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">5</text>
+  <text x="86" y="445" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">BPHTB Saat Akuisisi Lahan</text>
+  <text x="86" y="464" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">5% × (NPOP – NPOPTKP) = ~Rp 51 juta untuk lahan Rp 1,1 miliar.</text>
+  <text x="86" y="482" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Bersifat once-off namun signifikan untuk cash flow tahun pertama.</text>
+
+  <!-- Point 6 -->
+  <rect x="40" y="502" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="502" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="514" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="530" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">6</text>
+  <text x="86" y="523" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">Penyusutan CAPEX = Tax Shield</text>
+  <text x="86" y="542" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Penyusutan ~Rp 224–350 juta/tahun menghasilkan tax saving Rp 49–77 juta/tahun.</text>
+  <text x="86" y="560" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Pilih metode saldo menurun untuk front-loaded tax shield.</text>
+
+  <!-- Point 7 -->
+  <rect x="40" y="580" width="600" height="68" rx="5" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <rect x="40" y="580" width="5" height="68" fill="#1B3A6B"/>
+  <rect x="52" y="592" width="24" height="24" rx="12" fill="#1B3A6B"/>
+  <text x="64" y="608" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">7</text>
+  <text x="86" y="601" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">Effective Tax Rate (ETR) Estimasi 28–32%</text>
+  <text x="86" y="620" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Lebih tinggi dari tarif statutory 22% karena PBJT non-creditable,</text>
+  <text x="86" y="638" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">PPh 23 sebagai prepayment, dan beberapa biaya non-deductible.</text>
+
+  <!-- Right side: ETR Summary KPIs -->
+  <!-- Title -->
+  <rect x="665" y="112" width="575" height="34" rx="4" fill="#2C5282"/>
+  <text x="952" y="134" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Tax Position Summary</text>
+
+  <!-- KPI 1: Statutory -->
+  <rect x="665" y="156" width="275" height="90" rx="6" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <text x="802" y="186" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Statutory Tax Rate</text>
+  <text x="802" y="228" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="800" fill="#1B3A6B">22%</text>
+
+  <!-- KPI 2: Book ETR -->
+  <rect x="955" y="156" width="275" height="90" rx="6" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <text x="1092" y="186" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Book ETR</text>
+  <text x="1092" y="228" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="800" fill="#1B3A6B">23,6%</text>
+
+  <!-- KPI 3: Cash ETR -->
+  <rect x="665" y="258" width="275" height="90" rx="6" fill="#1B3A6B" stroke="#1B3A6B" stroke-width="1"/>
+  <text x="802" y="288" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#A8C4E8">Cash ETR</text>
+  <text x="802" y="330" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="800" fill="#D4A017">52,2%</text>
+
+  <!-- KPI 4: PPh 23 -->
+  <rect x="955" y="258" width="275" height="90" rx="6" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <text x="1092" y="288" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">PPh 23 Dipotong</text>
+  <text x="1092" y="330" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="800" fill="#1B3A6B">Rp 281,7 jt</text>
+
+  <!-- RED FLAG box -->
+  <rect x="665" y="362" width="565" height="108" rx="6" fill="#FFF5F5" stroke="#C53030" stroke-width="2"/>
+  <rect x="665" y="362" width="6" height="108" rx="3" fill="#C53030"/>
+  <text x="686" y="390" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="800" fill="#C53030">RED FLAG TERBESAR: PBJT</text>
+  <text x="686" y="413" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4A5568">Jika Perda lokal mewajibkan SPPG memungut PBJT 10% atas</text>
+  <text x="686" y="431" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4A5568">pembayaran dari BGN (Rp 14 miliar × 10% =</text>
+  <text x="882" y="431" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#C53030">Rp 1,4 miliar/tahun</text>
+  <text x="686" y="449" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4A5568">maka beban pajak efektif melampaui seluruh laba bersih mitra.</text>
+  <text x="686" y="462" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#C53030">→ Wajib request tax ruling tertulis dari Bapenda sebelum operasional.</text>
+
+  <!-- Tax layer flow -->
+  <rect x="665" y="484" width="565" height="152" rx="6" fill="#EEF2F8" stroke="#CBD5E0" stroke-width="1"/>
+  <text x="948" y="506" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1B3A6B">Alur Pemajakan Multi-Layer</text>
+  <!-- Flow boxes -->
+  <rect x="680" y="518" width="110" height="36" rx="4" fill="#1B3A6B"/>
+  <text x="735" y="540" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">APBN/BGN</text>
+  <text x="798" y="540" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#CBD5E0">→</text>
+  <rect x="820" y="518" width="110" height="36" rx="4" fill="#2C5282"/>
+  <text x="875" y="540" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">Yayasan</text>
+  <text x="938" y="540" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#CBD5E0">→</text>
+  <rect x="960" y="518" width="110" height="36" rx="4" fill="#4A90D9"/>
+  <text x="1015" y="540" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">SPPG</text>
+  <text x="1078" y="540" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#CBD5E0">→</text>
+  <rect x="1100" y="518" width="110" height="36" rx="4" fill="#276749"/>
+  <text x="1155" y="540" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">DJP/SPT</text>
+
+  <text x="735" y="576" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Dana Program</text>
+  <text x="875" y="576" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#D4A017">PPh 23: 2%</text>
+  <text x="1015" y="576" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">PPh Badan 22%</text>
+  <text x="1155" y="576" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Kredit/Restitusi</text>
+
+  <text x="948" y="620" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#C53030">+ PBJT Daerah (jika applicable) + PBB-P2 + Pajak Air Tanah + Bea Meterai</text>
+
+  <!-- Footer -->
+  <rect x="0" y="693" width="1280" height="27" fill="#1B3A6B"/>
+  <text x="640" y="710" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#A8C4E8">Analisis Pajak &amp; Tax Management MBG 2026  –  Confidential Tax Planning</text>
+  <text x="1250" y="710" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#D4A017">3 / 15</text>
+</svg>

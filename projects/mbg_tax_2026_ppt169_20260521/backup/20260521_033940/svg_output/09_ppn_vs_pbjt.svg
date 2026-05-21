@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="65" fill="#C53030"/>
+  <rect x="0" y="65" width="6" height="628" fill="#D4A017"/>
+
+  <text x="40" y="43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">PPN vs PBJT – AREA PALING KRITIS &amp; AMBIGU</text>
+  <text x="1240" y="43" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#FC8181">RED FLAG</text>
+
+  <!-- Intro -->
+  <text x="20" y="94" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#4A5568">Jasa boga/katering SPPG memenuhi 3 kriteria PMK 70/PMK.03/2022 → DIKECUALIKAN dari PPN, namun potensial menjadi OBJEK PBJT Daerah.</text>
+
+  <!-- Comparison table -->
+  <rect x="20" y="106" width="1240" height="34" rx="4" fill="#1B3A6B"/>
+  <text x="200" y="128" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Aspek Perbandingan</text>
+  <text x="640" y="128" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#A8D8A0">PPN (Pajak Pusat)</text>
+  <text x="1050" y="128" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FC8181">PBJT (Pajak Daerah)</text>
+  <line x1="400" y1="106" x2="400" y2="400" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="840" y1="106" x2="840" y2="400" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- Rows -->
+  <rect x="20" y="140" width="1240" height="36" fill="#EEF2F8"/>
+  <text x="30" y="163" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">Dasar Hukum</text>
+  <text x="640" y="163" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">UU 7/2021 HPP &amp; PMK 70/PMK.03/2022</text>
+  <text x="1050" y="163" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">UU 1/2022 HKPD &amp; PP 35/2023</text>
+  <line x1="20" y1="176" x2="1260" y2="176" stroke="#CBD5E0" stroke-width="1"/>
+
+  <rect x="20" y="176" width="1240" height="36" fill="#FFFFFF"/>
+  <text x="30" y="199" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">Otoritas Pemungut</text>
+  <text x="640" y="199" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">DJP (Pemerintah Pusat)</text>
+  <text x="1050" y="199" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">Bapenda Kab/Kota</text>
+  <line x1="20" y1="212" x2="1260" y2="212" stroke="#CBD5E0" stroke-width="1"/>
+
+  <rect x="20" y="212" width="1240" height="36" fill="#EEF2F8"/>
+  <text x="30" y="235" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">Tarif 2026</text>
+  <text x="640" y="235" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#276749">12% (tapi SPPG exempt)</text>
+  <text x="1050" y="235" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">Maksimal 10% per Perda</text>
+  <line x1="20" y1="248" x2="1260" y2="248" stroke="#CBD5E0" stroke-width="1"/>
+
+  <rect x="20" y="248" width="1240" height="36" fill="#FFFFFF"/>
+  <text x="30" y="271" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">Status SPPG</text>
+  <rect x="415" y="250" width="409" height="32" fill="#E6FFF0"/>
+  <text x="640" y="271" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="800" fill="#276749">DIKECUALIKAN ✓</text>
+  <rect x="846" y="250" width="408" height="32" fill="#FFF5F5"/>
+  <text x="1050" y="271" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="800" fill="#C53030">OBJEK (potensial) ⚠</text>
+  <line x1="20" y1="284" x2="1260" y2="284" stroke="#CBD5E0" stroke-width="1"/>
+
+  <rect x="20" y="284" width="1240" height="36" fill="#EEF2F8"/>
+  <text x="30" y="307" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">PPN Masukan</text>
+  <text x="640" y="307" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#C53030">Tidak dapat dikreditkan (output non-PPN)</text>
+  <text x="1050" y="307" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Tidak relevan</text>
+  <line x1="20" y1="320" x2="1260" y2="320" stroke="#CBD5E0" stroke-width="1"/>
+
+  <rect x="20" y="320" width="1240" height="36" fill="#FFFFFF"/>
+  <text x="30" y="343" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">Dokumen Wajib</text>
+  <text x="640" y="343" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">e-Faktur 4.0 (tidak wajib bagi non-PKP)</text>
+  <text x="1050" y="343" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">Bukti Pungut PBJT + SPTPD Bulanan</text>
+  <line x1="20" y1="356" x2="1260" y2="356" stroke="#CBD5E0" stroke-width="1"/>
+
+  <rect x="20" y="356" width="1240" height="36" fill="#EEF2F8"/>
+  <text x="30" y="379" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#1B3A6B">Kemungkinan Exempt MBG</text>
+  <text x="640" y="379" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#276749">N/A (sudah exempt otomatis)</text>
+  <text x="1050" y="379" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">GRAY AREA — cek Perda lokal!</text>
+
+  <rect x="20" y="106" width="1240" height="286" fill="none" stroke="#CBD5E0" stroke-width="1" rx="4"/>
+  <line x1="400" y1="140" x2="400" y2="392" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="840" y1="140" x2="840" y2="392" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Three PMK Criteria for exemption -->
+  <rect x="20" y="402" width="598" height="130" rx="5" fill="#E6FFF0" stroke="#276749" stroke-width="1.5"/>
+  <text x="319" y="424" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#276749">3 Kriteria PMK 70/PMK.03/2022 (PPN Exempt)</text>
+  <rect x="35" y="432" width="8" height="8" rx="2" fill="#276749"/>
+  <text x="51" y="442" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">(1) Penyediaan bahan + pembuatan + penyajian berdasarkan pesanan</text>
+  <rect x="35" y="452" width="8" height="8" rx="2" fill="#276749"/>
+  <text x="51" y="462" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">(2) Penyajian di lokasi pemesan (berbeda dari lokasi produksi dapur)</text>
+  <rect x="35" y="472" width="8" height="8" rx="2" fill="#276749"/>
+  <text x="51" y="482" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#1A202C">(3) Dengan atau tanpa peralatan/petugas pendukung</text>
+  <text x="319" y="522" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#276749">SPPG memenuhi KETIGA kriteria → PPN EXEMPT ✓</text>
+
+  <!-- PBJT Risk Box -->
+  <rect x="642" y="402" width="618" height="130" rx="5" fill="#FFF5F5" stroke="#C53030" stroke-width="2"/>
+  <rect x="642" y="402" width="6" height="130" rx="3" fill="#C53030"/>
+  <text x="951" y="424" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="800" fill="#C53030">PBJT – TAX RISK MATERIAL (Rp 1,4 Miliar)</text>
+  <text x="658" y="446" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Beberapa Perda memberikan exempt PBJT untuk:</text>
+  <rect x="658" y="452" width="6" height="6" rx="1" fill="#276749"/>
+  <text x="672" y="462" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Penyerahan makanan untuk bantuan sosial pemerintah</text>
+  <rect x="658" y="468" width="6" height="6" rx="1" fill="#276749"/>
+  <text x="672" y="478" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Panti sosial, lembaga pendidikan, rumah ibadah</text>
+  <rect x="658" y="484" width="6" height="6" rx="1" fill="#276749"/>
+  <text x="672" y="494" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Omzet di bawah threshold Perda (umumnya Rp 100–500 juta/bulan)</text>
+  <text x="951" y="520" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">MBG kemungkinan masuk exempt — tapi fact-specific per Perda!</text>
+
+  <!-- Final action box -->
+  <rect x="20" y="545" width="1240" height="112" rx="6" fill="#C53030" fill-opacity="0.05" stroke="#C53030" stroke-width="2"/>
+  <rect x="20" y="545" width="6" height="112" rx="3" fill="#C53030"/>
+  <text x="36" y="572" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="800" fill="#C53030">CONDITIO SINE QUA NON – 3 Langkah Wajib Sebelum Operasional:</text>
+  <rect x="36" y="582" width="8" height="8" rx="2" fill="#C53030"/>
+  <text x="52" y="592" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#C53030">1.</text>
+  <text x="68" y="592" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#1A202C">Ajukan permohonan tax ruling tertulis ke Bapenda lokal: "apakah SPPG MBG wajib pungut PBJT?"</text>
+  <rect x="36" y="602" width="8" height="8" rx="2" fill="#C53030"/>
+  <text x="52" y="612" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#C53030">2.</text>
+  <text x="68" y="612" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#1A202C">Analisis Perda PBJT setempat bersama konsultan pajak daerah yang paham HKPD</text>
+  <rect x="36" y="622" width="8" height="8" rx="2" fill="#C53030"/>
+  <text x="52" y="632" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#C53030">3.</text>
+  <text x="68" y="632" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#1A202C">Jika PBJT applicable: negosiasi klausul harga dalam kontrak MBG untuk pass-through PBJT ke BGN</text>
+  <text x="36" y="650" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">RISIKO: Rp 14 M × 10% = Rp 1,4 miliar PBJT/tahun — melampaui seluruh laba bersih SPPG!</text>
+
+  <rect x="0" y="693" width="1280" height="27" fill="#C53030"/>
+  <text x="640" y="710" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#FFFFFF">Analisis Pajak &amp; Tax Management MBG 2026  –  Confidential Tax Planning</text>
+  <text x="1250" y="710" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#FFFFFF">9 / 15</text>
+</svg>

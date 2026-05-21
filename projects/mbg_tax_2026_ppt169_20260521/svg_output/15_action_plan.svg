@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="65" fill="#1B3A6B"/>
+  <rect x="0" y="65" width="6" height="628" fill="#D4A017"/>
+
+  <text x="40" y="43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">ACTION PLAN &amp; REKOMENDASI FINAL SPPG MBG 2026</text>
+  <text x="1240" y="43" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#D4A017">FINAL SLIDE</text>
+
+  <!-- ===== COLUMN 1: PRE-OPERATIONAL (x=20-414) ===== -->
+  <rect x="20" y="72" width="394" height="22" rx="3" fill="#1B3A6B"/>
+  <text x="217" y="87" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">PRE-OPERASIONAL (Sebelum Hari Pertama)</text>
+
+  <!-- Items 1-7 -->
+  <rect x="20" y="98" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="28" y="106" width="10" height="10" rx="2" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+  <text x="46" y="119" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Registrasi NPWP + aktivasi Coretax + sertifikat elektronik</text>
+
+  <rect x="20" y="132" width="394" height="34" fill="#FFFFFF"/>
+  <rect x="28" y="140" width="10" height="10" rx="2" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+  <text x="46" y="153" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#C53030">Konfirmasi PBJT ke Bapenda (permohonan tertulis) ⚠</text>
+
+  <rect x="20" y="166" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="28" y="174" width="10" height="10" rx="2" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+  <text x="46" y="187" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#C53030">Review Perda PBJT bersama konsultan pajak daerah</text>
+
+  <rect x="20" y="200" width="394" height="34" fill="#FFFFFF"/>
+  <rect x="28" y="208" width="10" height="10" rx="2" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+  <text x="46" y="221" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Setup e-Bupot 23 untuk potong PPh ke penyedia bahan baku</text>
+
+  <rect x="20" y="234" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="28" y="242" width="10" height="10" rx="2" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+  <text x="46" y="255" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#D4A017">Negosiasi klausul PBJT pass-through dalam kontrak BGN</text>
+
+  <rect x="20" y="268" width="394" height="34" fill="#FFFFFF"/>
+  <rect x="28" y="276" width="10" height="10" rx="2" fill="none" stroke="#276749" stroke-width="1.5"/>
+  <text x="46" y="289" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Pilih struktur: PT Tunggal vs Holding 3 SPPG (PP 23/2018)</text>
+
+  <rect x="20" y="302" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="28" y="310" width="10" height="10" rx="2" fill="none" stroke="#276749" stroke-width="1.5"/>
+  <text x="46" y="323" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Siapkan template rekap PPh 23 dipotong dari mitra kontrak</text>
+
+  <rect x="20" y="98" width="394" height="238" fill="none" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="20" y1="132" x2="414" y2="132" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="20" y1="166" x2="414" y2="166" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="20" y1="200" x2="414" y2="200" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="20" y1="234" x2="414" y2="234" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="20" y1="268" x2="414" y2="268" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="20" y1="302" x2="414" y2="302" stroke="#CBD5E0" stroke-width="0.5"/>
+
+  <!-- ===== COLUMN 2: MONTHLY (x=424-818) ===== -->
+  <rect x="424" y="72" width="394" height="22" rx="3" fill="#2C5282"/>
+  <text x="621" y="87" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">DISIPLIN BULANAN (Setiap Bulan Tanpa Kecuali)</text>
+
+  <rect x="424" y="98" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="432" y="106" width="46" height="18" rx="9" fill="#1B3A6B"/>
+  <text x="455" y="119" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">TGL 10</text>
+  <text x="486" y="119" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Setor PPh 21/23/4(2) masa sebelumnya via MPN G3</text>
+
+  <rect x="424" y="132" width="394" height="34" fill="#FFFFFF"/>
+  <rect x="432" y="140" width="46" height="18" rx="9" fill="#2C5282"/>
+  <text x="455" y="153" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">TGL 15</text>
+  <text x="486" y="153" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Bayar Angsuran PPh 25 via MPN G3 Coretax</text>
+
+  <rect x="424" y="166" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="432" y="174" width="46" height="18" rx="9" fill="#C53030"/>
+  <text x="455" y="187" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">TGL 20</text>
+  <text x="486" y="187" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Lapor 6 SPT Masa via Coretax (jangan mepet deadline!)</text>
+
+  <rect x="424" y="200" width="394" height="34" fill="#FFFFFF"/>
+  <rect x="432" y="208" width="46" height="18" rx="9" fill="#C53030"/>
+  <text x="455" y="221" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF">TGL 20</text>
+  <text x="486" y="221" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#C53030">Bayar SPTPD PBJT ke Bapenda (jika PBJT applicable)</text>
+
+  <rect x="424" y="234" width="394" height="34" fill="#EEF2F8"/>
+  <rect x="432" y="244" width="10" height="10" rx="2" fill="#2C5282"/>
+  <text x="450" y="255" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Rekonsiliasi e-Bupot dari mitra – koordinasi akhir bulan</text>
+
+  <rect x="424" y="268" width="394" height="34" fill="#FFFFFF"/>
+  <rect x="432" y="278" width="10" height="10" rx="2" fill="#276749"/>
+  <text x="450" y="289" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Review saldo kas pajak: deteksi dini keterlambatan / kekurangan</text>
+
+  <rect x="424" y="98" width="394" height="204" fill="none" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="424" y1="132" x2="818" y2="132" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="424" y1="166" x2="818" y2="166" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="424" y1="200" x2="818" y2="200" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="424" y1="234" x2="818" y2="234" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="424" y1="268" x2="818" y2="268" stroke="#CBD5E0" stroke-width="0.5"/>
+
+  <!-- ===== COLUMN 3: ANNUAL (x=828-1260) ===== -->
+  <rect x="828" y="72" width="432" height="22" rx="3" fill="#276749"/>
+  <text x="1044" y="87" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">STRATEGI TAHUNAN (Agenda Wajib per Tahun)</text>
+
+  <rect x="828" y="98" width="432" height="34" fill="#E6FFF0"/>
+  <rect x="836" y="108" width="46" height="16" rx="3" fill="#276749"/>
+  <text x="859" y="120" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF">30 APRIL</text>
+  <text x="890" y="119" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#276749">SPT Tahunan PPh Badan 1771 via Coretax</text>
+
+  <rect x="828" y="132" width="432" height="34" fill="#FFFFFF"/>
+  <rect x="836" y="142" width="46" height="16" rx="3" fill="#276749"/>
+  <text x="859" y="154" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF">30 APRIL</text>
+  <text x="890" y="153" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Siapkan TP Documentation (jika ada transaksi afiliasi)</text>
+
+  <rect x="828" y="166" width="432" height="34" fill="#EEF2F8"/>
+  <rect x="836" y="176" width="46" height="16" rx="3" fill="#D4A017"/>
+  <text x="859" y="188" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF">APR-MEI</text>
+  <text x="890" y="187" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#276749">Ajukan restitusi PPh 23 overcredit (±Rp 148 jt/thn)</text>
+
+  <rect x="828" y="200" width="432" height="34" fill="#FFFFFF"/>
+  <rect x="836" y="210" width="10" height="10" rx="2" fill="#276749"/>
+  <text x="854" y="221" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Evaluasi ulang holding structure (efisiensi PP 23/2018)</text>
+
+  <rect x="828" y="234" width="432" height="34" fill="#EEF2F8"/>
+  <rect x="836" y="244" width="10" height="10" rx="2" fill="#D4A017"/>
+  <text x="854" y="255" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Review kontrak BGN: pastikan PBJT ter-cover dalam harga</text>
+
+  <rect x="828" y="268" width="432" height="34" fill="#FFFFFF"/>
+  <rect x="836" y="278" width="10" height="10" rx="2" fill="#1B3A6B"/>
+  <text x="854" y="289" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Audit internal PPh 21 TER: pastikan golongan karyawan tepat</text>
+
+  <rect x="828" y="98" width="432" height="204" fill="none" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="828" y1="132" x2="1260" y2="132" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="828" y1="166" x2="1260" y2="166" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="828" y1="200" x2="1260" y2="200" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="828" y1="234" x2="1260" y2="234" stroke="#CBD5E0" stroke-width="0.5"/>
+  <line x1="828" y1="268" x2="1260" y2="268" stroke="#CBD5E0" stroke-width="0.5"/>
+
+  <!-- ===== 3 FINAL RECOMMENDATIONS ===== -->
+  <!-- Rec 1: PBJT (RED - URGENT) -->
+  <rect x="20" y="348" width="398" height="298" rx="6" fill="#FFF5F5" stroke="#C53030" stroke-width="2.5"/>
+  <rect x="20" y="348" width="398" height="8" rx="4" fill="#C53030"/>
+  <text x="219" y="382" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">REKOMENDASI #1 – URGENT</text>
+  <text x="219" y="408" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#C53030">KONFIRMASI</text>
+  <text x="219" y="430" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#C53030">STATUS PBJT SEKARANG</text>
+  <line x1="40" y1="440" x2="398" y2="440" stroke="#C53030" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="40" y="460" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Eksposur: Rp 1,4 miliar/tahun — melampaui seluruh</text>
+  <text x="40" y="475" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">laba bersih SPPG. Tanpa konfirmasi Bapenda, operasi</text>
+  <text x="40" y="490" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">berisiko dihentikan akibat tunggakan PBJT + sanksi.</text>
+  <rect x="40" y="504" width="358" height="36" rx="4" fill="#C53030"/>
+  <text x="219" y="521" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">ACTION: Ajukan surat ruling ke Bapenda</text>
+  <text x="219" y="535" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">SEBELUM hari pertama operasional SPPG</text>
+  <text x="219" y="565" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="800" fill="#C53030">Rp 1,4 M/thn</text>
+  <text x="219" y="582" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#C53030">eksposur jika tidak dikelola</text>
+  <text x="219" y="602" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#C53030">Jika exempt → Rp 0 exposure. Selisih: Rp 1,4 M!</text>
+  <text x="219" y="626" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Prioritas nomor 1 sebelum SPPG mulai berproduksi.</text>
+  <text x="219" y="640" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Negosiasi kontrak harus cover klausul PBJT pass-through.</text>
+
+  <!-- Rec 2: Restitusi (GREEN) -->
+  <rect x="432" y="348" width="398" height="298" rx="6" fill="#F0FFF4" stroke="#276749" stroke-width="2"/>
+  <rect x="432" y="348" width="398" height="8" rx="4" fill="#276749"/>
+  <text x="631" y="382" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#276749">REKOMENDASI #2 – CASH RECOVERY</text>
+  <text x="631" y="408" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#276749">RESTITUSI PPh 23</text>
+  <text x="631" y="430" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#276749">SETIAP TAHUN</text>
+  <line x1="452" y1="440" x2="810" y2="440" stroke="#276749" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="452" y="460" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">PPh 23 dipotong mitra Rp281.7jt/thn &gt; PPh Badan</text>
+  <text x="452" y="475" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Rp133.5jt. Selisih Rp148.2jt terkunci di DJP setiap</text>
+  <text x="452" y="490" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">tahun jika tidak diajukan restitusi atau pemindahbukuan.</text>
+  <rect x="452" y="504" width="358" height="36" rx="4" fill="#276749"/>
+  <text x="631" y="521" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">ACTION: Ajukan restitusi bersamaan</text>
+  <text x="631" y="535" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">SPT Tahunan 30 April setiap tahun</text>
+  <text x="631" y="565" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="800" fill="#276749">Rp 148 jt/thn</text>
+  <text x="631" y="582" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#276749">kembali ke kas SPPG via restitusi</text>
+  <text x="631" y="602" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#276749">Cash ETR 52.2% → turun ke 24.7% dengan restitusi!</text>
+  <text x="631" y="626" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Proses restitusi 12 bulan; persiapkan bukti e-Bupot</text>
+  <text x="631" y="640" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">dari seluruh mitra/penyedia secara menyeluruh.</text>
+
+  <!-- Rec 3: Holding (NAVY) -->
+  <rect x="844" y="348" width="416" height="298" rx="6" fill="#EEF2F8" stroke="#1B3A6B" stroke-width="2"/>
+  <rect x="844" y="348" width="416" height="8" rx="4" fill="#1B3A6B"/>
+  <text x="1052" y="382" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#1B3A6B">REKOMENDASI #3 – STRATEGIC</text>
+  <text x="1052" y="408" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#1B3A6B">HOLDING STRUCTURE</text>
+  <text x="1052" y="430" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#1B3A6B">PP 23/2018</text>
+  <line x1="864" y1="440" x2="1240" y2="440" stroke="#1B3A6B" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="864" y="460" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">3 PT SPPG (@omzet &lt; Rp4.8M) di bawah PT Holding.</text>
+  <text x="864" y="475" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Tarif PPh 0.5% final vs 22% normal → penghematan</text>
+  <text x="864" y="490" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Rp63.5jt/thn. Dividen antar anak-induk tidak kena PPh.</text>
+  <rect x="864" y="504" width="376" height="36" rx="4" fill="#1B3A6B"/>
+  <text x="1052" y="521" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">ACTION: Bentuk struktur sebelum tahun</text>
+  <text x="1052" y="535" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">pajak pertama — tidak bisa retroaktif</text>
+  <text x="1052" y="565" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B3A6B">Rp 63.5 jt/thn</text>
+  <text x="1052" y="582" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#1B3A6B">hemat pajak via PP 23/2018</text>
+  <text x="1052" y="602" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#1B3A6B">Penghematan 47.5% dari PPh Badan normal!</text>
+  <text x="1052" y="626" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">Konsultasikan dengan notaris dan konsultan hukum</text>
+  <text x="1052" y="640" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#4A5568">pajak sebelum pendirian entitas SPPG baru.</text>
+
+  <!-- Footer -->
+  <rect x="0" y="693" width="1280" height="27" fill="#1B3A6B"/>
+  <text x="640" y="710" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#FFFFFF">Analisis Pajak &amp; Tax Management MBG 2026  –  Confidential Tax Planning</text>
+  <text x="1250" y="710" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#FFFFFF">15 / 15</text>
+</svg>

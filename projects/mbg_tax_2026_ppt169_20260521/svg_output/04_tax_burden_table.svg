@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="65" fill="#1B3A6B"/>
+  <rect x="0" y="65" width="6" height="628" fill="#D4A017"/>
+
+  <text x="40" y="43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">RINGKASAN BEBAN PAJAK TAHUNAN SPPG</text>
+  <text x="1240" y="43" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#A8C4E8">Base Case – Tahun Pajak 2026</text>
+
+  <!-- Table header -->
+  <rect x="30" y="78" width="1220" height="36" rx="4" fill="#2C5282"/>
+  <text x="80" y="101" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Jenis Pajak</text>
+  <text x="590" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Tarif</text>
+  <text x="780" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Estimasi Tahunan</text>
+  <text x="1050" y="101" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sifat / Catatan</text>
+  <!-- Column dividers in header -->
+  <line x1="560" y1="78" x2="560" y2="114" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="660" y1="78" x2="660" y2="114" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="900" y1="78" x2="900" y2="114" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- Row 1: PPh Badan -->
+  <rect x="30" y="114" width="1220" height="50" fill="#EEF2F8"/>
+  <rect x="30" y="114" width="4" height="50" fill="#1B3A6B"/>
+  <text x="46" y="133" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B3A6B">PPh Badan (Pasal 17 UU PPh)</text>
+  <text x="46" y="153" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Atas penghasilan kena pajak akhir tahun</text>
+  <text x="590" y="143" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B3A6B">22%</text>
+  <text x="780" y="143" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B3A6B">Rp 127 – 136 juta</text>
+  <text x="910" y="133" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Atas laba kena pajak</text>
+  <text x="910" y="151" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#276749">Dibayar via PPh 25 + PPh 29</text>
+  <line x1="30" y1="164" x2="1250" y2="164" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 2: PPh 21 -->
+  <rect x="30" y="164" width="1220" height="50" fill="#FFFFFF"/>
+  <rect x="30" y="164" width="4" height="50" fill="#4A90D9"/>
+  <text x="46" y="183" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">PPh 21 Karyawan (TER PMK 168/2023)</text>
+  <text x="46" y="203" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">47 karyawan — mayoritas di bawah threshold PPh</text>
+  <text x="590" y="193" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">0 – 34%</text>
+  <text x="780" y="193" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">~Rp 5,8 juta</text>
+  <text x="910" y="183" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Withhold ke karyawan</text>
+  <text x="910" y="201" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">SPPG setor ke DJP</text>
+  <line x1="30" y1="214" x2="1250" y2="214" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 3: PPh 23 -->
+  <rect x="30" y="214" width="1220" height="50" fill="#EEF2F8"/>
+  <rect x="30" y="214" width="4" height="50" fill="#D4A017"/>
+  <text x="46" y="233" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">PPh 23 Dipotong Yayasan (Kredit Pajak)</text>
+  <text x="46" y="253" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">2% × bruto Rp 14,085 miliar — bersifat prepayment</text>
+  <text x="590" y="243" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#D4A017">2%</text>
+  <text x="780" y="243" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#D4A017">Rp 281,7 juta</text>
+  <text x="910" y="233" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#D4A017">Prepayment – dikreditkan</text>
+  <text x="910" y="251" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">Cash trap – sering lebih bayar!</text>
+  <line x1="30" y1="264" x2="1250" y2="264" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 4: PPh 4(2) -->
+  <rect x="30" y="264" width="1220" height="50" fill="#FFFFFF"/>
+  <rect x="30" y="264" width="4" height="50" fill="#4A90D9"/>
+  <text x="46" y="283" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">PPh 4(2) Final Sewa (jika sewa lahan)</text>
+  <text x="46" y="303" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Asumsi sewa Rp 300 juta/tahun — dipotong SPPG</text>
+  <text x="590" y="293" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">10%</text>
+  <text x="780" y="293" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Rp 30 juta</text>
+  <text x="910" y="283" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Final, non-creditable</text>
+  <text x="910" y="301" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Langsung jadi beban</text>
+  <line x1="30" y1="314" x2="1250" y2="314" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 5: PBJT (RED) -->
+  <rect x="30" y="314" width="1220" height="50" fill="#FFF5F5"/>
+  <rect x="30" y="314" width="4" height="50" fill="#C53030"/>
+  <text x="46" y="333" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#C53030">PBJT Daerah (jika tidak exempt)</text>
+  <text x="46" y="353" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">GRAY AREA — wajib konfirmasi Bapenda sebelum operasional</text>
+  <text x="590" y="343" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#C53030">Max 10%</text>
+  <text x="780" y="343" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#C53030">Rp 0 – 1,4 miliar</text>
+  <text x="910" y="333" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#C53030">GRAY AREA</text>
+  <text x="910" y="351" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#C53030">Tergantung Perda setempat</text>
+  <line x1="30" y1="364" x2="1250" y2="364" stroke="#C53030" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- Row 6: BPHTB -->
+  <rect x="30" y="364" width="1220" height="50" fill="#EEF2F8"/>
+  <rect x="30" y="364" width="4" height="50" fill="#4A90D9"/>
+  <text x="46" y="383" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">BPHTB (sekali, tahun-1)</text>
+  <text x="46" y="403" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">5% × (NPOP – NPOPTKP) — capitalize ke aset tanah</text>
+  <text x="590" y="393" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">5%</text>
+  <text x="780" y="393" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Rp 51–55 juta</text>
+  <text x="910" y="383" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">One-off saat akuisisi</text>
+  <text x="910" y="401" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Capitalize ke nilai aset</text>
+  <line x1="30" y1="414" x2="1250" y2="414" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 7: PBB-P2 -->
+  <rect x="30" y="414" width="1220" height="50" fill="#FFFFFF"/>
+  <rect x="30" y="414" width="4" height="50" fill="#4A90D9"/>
+  <text x="46" y="433" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">PBB-P2 Tahunan</text>
+  <text x="46" y="453" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Pajak Bumi &amp; Bangunan lahan dapur 500–800 m²</text>
+  <text x="590" y="443" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">0,1 – 0,3%</text>
+  <text x="780" y="443" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Rp 3 – 10 juta</text>
+  <text x="910" y="443" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Pajak daerah (Perda)</text>
+  <line x1="30" y1="464" x2="1250" y2="464" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 8: Pajak Air Tanah -->
+  <rect x="30" y="464" width="1220" height="50" fill="#EEF2F8"/>
+  <rect x="30" y="464" width="4" height="50" fill="#4A90D9"/>
+  <text x="46" y="483" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">Pajak Air Tanah</text>
+  <text x="46" y="503" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">~150–300 m³/bulan konsumsi dapur produksi</text>
+  <text x="590" y="493" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Per m³</text>
+  <text x="780" y="493" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Rp 6 – 18 juta</text>
+  <text x="910" y="493" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Pajak daerah, bulanan</text>
+  <line x1="30" y1="514" x2="1250" y2="514" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Row 9: Bea Meterai -->
+  <rect x="30" y="514" width="1220" height="50" fill="#FFFFFF"/>
+  <rect x="30" y="514" width="4" height="50" fill="#4A90D9"/>
+  <text x="46" y="533" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A202C">Bea Meterai (multi dokumen)</text>
+  <text x="46" y="553" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" fill="#4A5568">Kontrak, bukti penerimaan &gt; Rp 5 juta — est. 50–200 dok/tahun</text>
+  <text x="590" y="543" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Rp 10.000</text>
+  <text x="780" y="543" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C">Rp 0,5 – 2 juta</text>
+  <text x="910" y="543" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">Per dokumen &gt; Rp 5 jt</text>
+  <line x1="30" y1="564" x2="1250" y2="564" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Total row -->
+  <rect x="30" y="564" width="1220" height="50" fill="#1B3A6B"/>
+  <text x="46" y="595" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">TOTAL CASH TAX TAHUNAN</text>
+  <text x="590" y="595" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#A8C4E8">(excl. PBJT)</text>
+  <text x="780" y="595" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="800" fill="#D4A017">Rp 195 – 245 juta</text>
+  <text x="910" y="595" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#A8C4E8">Belum termasuk PBJT</text>
+
+  <!-- Table outer border -->
+  <rect x="30" y="78" width="1220" height="536" fill="none" stroke="#CBD5E0" stroke-width="1" rx="4"/>
+  <!-- Column divider lines -->
+  <line x1="560" y1="78" x2="560" y2="614" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="660" y1="78" x2="660" y2="614" stroke="#CBD5E0" stroke-width="1"/>
+  <line x1="900" y1="78" x2="900" y2="614" stroke="#CBD5E0" stroke-width="1"/>
+
+  <!-- Note -->
+  <text x="40" y="640" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#4A5568">* BPJS Kesehatan (5% × gaji) dan BPJS Ketenagakerjaan (~5,7% gaji) bukan pajak namun wajib compliance — tidak termasuk dalam tabel.</text>
+  <text x="40" y="658" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#C53030">** Jika PBJT 10% applicable: total beban pajak bisa melampaui Rp 1,6 miliar/tahun — melebihi seluruh laba bersih operasional.</text>
+
+  <!-- Footer -->
+  <rect x="0" y="693" width="1280" height="27" fill="#1B3A6B"/>
+  <text x="640" y="710" text-anchor="middle" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#A8C4E8">Analisis Pajak &amp; Tax Management MBG 2026  –  Confidential Tax Planning</text>
+  <text x="1250" y="710" text-anchor="end" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#D4A017">4 / 15</text>
+</svg>
